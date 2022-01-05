@@ -33,13 +33,13 @@ form button {
   background-color: white;
 }
 form button {
-  color: var(--blue);
+  color: rgb(226, 101, 101);
   background-color: #fff;
   cursor: pointer;
   transition: all 0.5s ease;
 }
 form button:hover {
-  background-color: var(--l-blue);
+  background-color: rgb(226, 101, 101);
   color: white;
 }
 .todo-container {
